@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: "Haoran Zhao - Homepage"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+======
 Hi, I'm Haoran! I am currently a master's student in Computational Linguistics at the University of Washington - Seattle. I'm grateful to be advised by Max Kleiman-Wainer and Robert Hawkins.
 
 
