@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haoran Zhao"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Master student in Computational Linguistics"
   location         : "Seattle. WA"
   employer         : "University of Washington"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : https://x.com/HaoranZhaoHRZ
+  twitter          : # https://x.com/HaoranZhaoHRZ
   X                : https://x.com/HaoranZhaoHRZ
   vine             : # Username
   weibo            : # Username
