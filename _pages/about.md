@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 Hi, I'm Haoran! I am currently a master's student in Computational Linguistics at the University of Washington - Seattle. I'm grateful to be advised by Max Kleiman-Wainer and Robert Hawkins.
 
 Before starting at UW, I was an undergraduate student majoring in Data Science and minoring in Linguistics at Drexel University. Before that, I spent two years at Lanzhou University, where I also hold a bachelor's degree in Computer Science and Engineering from there.
